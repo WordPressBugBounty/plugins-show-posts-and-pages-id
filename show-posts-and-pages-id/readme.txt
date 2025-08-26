@@ -1,9 +1,9 @@
 === Show Pages IDs ===
 Contributors: YYDevelopment
-Tags: Pages ID, Posts ID, ID, Show, Reveal, Find, Display
-Requires at least: 3
-Tested up to: 6.5
-Stable tag: 1.5.5
+Tags: Pages ID, Posts ID, Show ID, Reveal ID, Find Ids
+Requires at least: 5.0
+Tested up to: 6.7
+Stable tag: 1.5.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -134,6 +134,9 @@ All you need to do it to install and activate the plugin. Once you do that you w
 
 = 1.5.5 =
 * Adding id support to users page
+
+= 1.5.6 =
+* Fixed broken access control vulnerability 
 
 == Upgrade Notice ==
 

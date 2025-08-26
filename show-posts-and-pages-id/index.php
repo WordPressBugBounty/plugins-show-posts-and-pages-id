@@ -4,7 +4,7 @@
 Plugin Name: YYDevelopment - Show Pages ID
 Plugin URI:  https://www.yydevelopment.com/yydevelopment-wordpress-plugins/
 Description: Simple plugin that show you the pages and posts #id number
-Version:     1.5.5
+Version:     1.5.6
 Author:      YYDevelopment
 Author URI:  https://www.yydevelopment.com/
 */

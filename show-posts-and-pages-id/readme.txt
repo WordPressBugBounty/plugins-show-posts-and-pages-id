@@ -2,7 +2,7 @@
 Contributors: YYDevelopment
 Tags: Pages ID, Posts ID, Show ID, Reveal ID, Find Ids
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.5.6
 Requires PHP: 5.2.4
 License: GPLv2 or later
